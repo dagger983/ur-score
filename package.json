@@ -1,0 +1,10 @@
+{
+  "name": "ur-score",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node preview.cjs",
+    "preview": "node preview.cjs"
+  }
+}

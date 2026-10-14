@@ -1,0 +1,2 @@
+import{oa as r}from"./chunk-SFZYOW6O.mjs";r.loadFonts([]);var o=[{explicitInter:!0,fonts:[]}],s=[".framer-PxOLk .framer-styles-preset-10c2cil:not(.rich-text-wrapper), .framer-PxOLk .framer-styles-preset-10c2cil.rich-text-wrapper a { --framer-link-current-text-decoration: underline; --framer-link-hover-text-decoration: underline; --framer-link-text-decoration: none; }"],i="framer-PxOLk";export{o as a,s as b,i as c};
+//# sourceMappingURL=chunk-KZPU6OD6.mjs.map

@@ -1,0 +1,2 @@
+import{oa as r}from"./chunk-SFZYOW6O.mjs";r.loadFonts([]);var n=[{explicitInter:!0,fonts:[]}],s=[".framer-WNuQi .framer-styles-preset-15bzus2:not(.rich-text-wrapper), .framer-WNuQi .framer-styles-preset-15bzus2.rich-text-wrapper a { --framer-link-current-text-decoration: none; --framer-link-hover-text-decoration: none; --framer-link-text-decoration: none; }"],i="framer-WNuQi";export{n as a,s as b,i as c};
+//# sourceMappingURL=chunk-J5JSWXF4.mjs.map
